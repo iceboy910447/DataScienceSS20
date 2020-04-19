@@ -43,7 +43,7 @@ Please upload your solutions via Moodle!
 * [Use Case](https://colab.research.google.com/github/iceboy910447/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
 
 ### Lab
-* [NumPy](https://colab.research.google.com/github/iceboy910447iceboy910447iceboy910447/DataScienceSS20/blob/master/Notebooks/02_d_Numpy.ipynb)
+* [NumPy](https://colab.research.google.com/github/iceboy910447/DataScienceSS20/blob/master/Notebooks/02_d_Numpy.ipynb)
 
 
 ### Exercises
